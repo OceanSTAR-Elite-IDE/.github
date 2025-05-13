@@ -8,7 +8,7 @@
 - 🍿 Fun facts - what does your team eat for breakfast?
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[工单申请表](https://github.com/OceanSTAR-Elite-IDE/request-forms/issues/new/choose)
+[工单申请表]([https://github.com/OceanSTAR-Elite-IDE/request-forms/issues/new/choose](https://github.com/OceanSTAR-Elite-IDE/request-forms/issues/new/choose))
 
 ### 工程 pipeline 状态
 
