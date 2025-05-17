@@ -13,5 +13,4 @@
 ### 工程 pipeline 状态
 
 
-https://img.shields.io/github/checks-status/OceanSTAR-Elite-IDE/oseflow-epc-web/main
-
+![GitHub branch status](https://img.shields.io/github/checks-status/OceanSTAR-Elite-IDE/oseflow-epc-web/main)
