@@ -1,7 +1,7 @@
 ### 项目列表
 
 | Module     | Project                           | Backlog Link   |
-|----------- | --------------------------------- | -------------- |
+|:-----------|:--------------------------------- |:-------------- |
 | EPCIC      | `LDV -Engineering & Procurement`  |                |
 | EPCIC      | `LDV -Construction`               |                |
 | EPCIC      | `LDV -Completion`                 |                |
