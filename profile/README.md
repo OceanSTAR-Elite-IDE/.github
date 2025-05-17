@@ -13,7 +13,7 @@
 | General    | `General Service`                  |                |
 | Upgrading  | `Backend Optimization`             |                |
 | Upgrading  | `Devkit`                           |                |
-| EPCIC      | `Frontend Refactoring`             |                |
+| Upgrading  | `Frontend Refactoring`             |                |
 | Upgrading  | `Environment Migration`            |                |
 | Upgrading  | `RAG`                              |                |
 
