@@ -1,12 +1,24 @@
-### 项目状态
+### Projects Status
 
 **Here are some ideas to get you started:**
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+| Module     | Project                           | Status   |
+|----------- | --------------------------------- | -------- |
+| EPCIC      | `LDV -Engineering&Procurement`    |          |
+| EPCIC      | `LDV -Construction`               |          |
+| EPCIC      | `LDV -Completion`                 |          |
+| EPCIC      | `中远 - Construction`              |          |
+| ERP        | `Man Power`                       |          |
+| ERP        | `Leave Management`                |          |
+| ERP        | `CBS Coding System`               |          |
+| ERP        | `Oceanstar Cost reporting`        |          |
+| ERP        | `@oceanstar/feature-projects`     |          |
+| General    | `General Service`                 |          |
+| Upgrading  | `Backend Optimization`            |          |
+| Upgrading  | `Devkit`                          |          |
+| Upgrading  | `Frontend Refactoring`            |          |
+| Upgrading  | `Environment Migration`           |          |
+| Upgrading  | `RAG`                             |          |
 
 [工单申请表](https://github.com/OceanSTAR-Elite-IDE/request-forms/issues/new/choose)
 
