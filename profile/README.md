@@ -2,19 +2,21 @@
 
 | Module     | Project                            | Issues page    |
 |:-----------|:---------------------------------  |:-------------- |
-| EPCIC      | `LDV - Engineering & Procurement`  |                |
-| EPCIC      | `LDV - Construction`               |                |
-| EPCIC      | `LDV - Completion`                 |                |
-| EPCIC      | `中远 - Construction`               |                |
-| ERP        | `Man Power`                        |                |
-| ERP        | `Leave Management`                 |                |
-| ERP        | `CBS Coding System`                |                |
-| ERP        | `Oceanstar Cost reporting`         |                |
-| General    | `General Service`                  |                |
-| Upgrading  | `Backend Optimization`             |                |
-| Upgrading  | `Devkit`                           |                |
-| Upgrading  | `Frontend Refactoring`             |                |
-| Upgrading  | `Environment Migration`            |                |
-| Upgrading  | `RAG`                              |                |
+| EPCIC      | `LDV - Engineering & Procurement`  | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-legecy/issues) |
+| EPCIC      | `LDV - Construction`               | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-legecy/issues) |
+| EPCIC      | `LDV - Completion`                 | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-legecy/issues) |
+| EPCIC      | `中远 - Construction`               | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-legecy/issues) |
+| ERP        | `Man Power`                        | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues) |
+| ERP        | `Leave Management`                 | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues) |
+| ERP        | `CBS Coding System`                | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues) |
+| ERP        | `Oceanstar Cost reporting`         | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues) |
+| General    | `General Service`                  | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues) |
+| Upgrading  | `Backend Optimization`             | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-api/issues)     |
+| Upgrading  | `Devkit`                           | [Issues](https://github.com/OceanSTAR-Elite-IDE/ose-devkit/issues)      |
+| Upgrading  | `Frontend Refactoring`             | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues)    |
+| Upgrading  | `Environment Migration`            | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues)    |
+| Upgrading  | `RAG`                              | -               |
 
 [工单申请表](https://github.com/OceanSTAR-Elite-IDE/request-forms/issues/new/choose)
+
+
