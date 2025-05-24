@@ -13,7 +13,7 @@
 | General    | `General Service`                  | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues) | |
 | Upgrading  | `Backend Optimization`             | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-api/issues)     | |
 | Upgrading  | `Devkit`                           | [Issues](https://github.com/OceanSTAR-Elite-IDE/ose-devkit/issues)      | |
-| Upgrading  | `Frontend Refactoring`             | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues)    | [![PR-Check](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/actions/workflows/pr-check.yml) |
+| Upgrading  | `Frontend Refactoring`             | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues)    |[![Development Deployment](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/actions/workflows/develop-deploy.yml/badge.svg?branch=develop)](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/actions/workflows/develop-deploy.yml) |
 | Upgrading  | `Environment Migration`            | [Issues](https://github.com/OceanSTAR-Elite-IDE/oseflow-epc-web/issues)    | |
 | Upgrading  | `RAG`                              | -               | | 
 
